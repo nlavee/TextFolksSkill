@@ -1,0 +1,5 @@
+Launcher.class
+texthack/KeyVariables.class
+texthack/TextHackSpeechletRequestStreamHandler.class
+texthack/TwillioClient.class
+texthack/TextHackSpeechlet.class

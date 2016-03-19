@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "intent": "textHackIntent",
+      "slots": [
+        {
+          "name" : "Group",
+          "type" : "LIST_OF_GROUP"
+        },
+        {
+          "name" : "Action",
+          "type" : "LIST_OF_ACTION"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
