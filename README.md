@@ -17,7 +17,7 @@ The current continent/countries/cities represented are:
 The current topics of that I need to text include:
 
 * Ordering Chipotle ("Anyone wants to order Chipotle?")
-* Home ("Is anyone home?"
+* Home ("Is anyone home?")
 * Test (Send test texts)
 
 This was a fun hack. You can contact me at anhvu.nguyenlam@gmail.com or vu.nguyen@skidmore.edu.
