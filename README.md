@@ -12,7 +12,6 @@ The current continent/countries/cities represented are:
 * Vietnam
 * China
 * New York
-* Kenya
 
 The current topics of that I need to text include:
 
